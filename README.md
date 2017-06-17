@@ -7,6 +7,6 @@ A starter template using:
   - Webpack 2
  
 # instruction
-- Make sure Node and npm are installed on your sytems
+- Make sure Node and npm are installed on your system.
 - Run: "npm install" in terminal.
 - Run: "gulp watch"
