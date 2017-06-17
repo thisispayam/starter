@@ -1,7 +1,6 @@
 # starter
 A starter template using:
-  - PostCss
-   - Plugins:
+  - PostCss -Plugins:
      - import
      - mixins
      - autoprefixer
