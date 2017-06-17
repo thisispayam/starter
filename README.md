@@ -2,6 +2,7 @@
 A starter template using:
   - PostCss
   - jQuery
+  - Babel
   - Gulp
   - Webpack 2
  
