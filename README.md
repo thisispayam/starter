@@ -1,6 +1,14 @@
 # starter
 A starter template using:
   - PostCss
+    - Plugins:
+     - import
+     - mixins
+     - autoprefixer
+     - nested
+     - simple vars
+     - hexrgba
+     
   - jQuery
   - Babel
   - Gulp
