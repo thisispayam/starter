@@ -13,9 +13,9 @@
   "author": "Payam Kazemi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thisispayam/tripopolo/issues"
+    "url": "https://github.com/thisispayam/starter/issues"
   },
-  "homepage": "https://github.com/thisispayam/tripopolo#readme",
+  "homepage": "https://github.com/thisispayam/starter#readme",
   "dependencies": {
     "jquery": "^3.2.1",
     "normalize.css": "^7.0.0",
