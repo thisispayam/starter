@@ -15,6 +15,6 @@ A starter template using:
  
 # instruction
 - Make sure Node and npm are installed on your system.
-- you need to install Webpack globally: npm install webpack -g
+- Make sure you have Webpack installed globally: npm install webpack -g
 - Run: "npm install" in terminal.
 - Run: "gulp watch"
